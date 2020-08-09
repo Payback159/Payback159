@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Payback159's github stats](https://github-readme-stats.vercel.app/api?username=payback159&show_icons=true&theme=default&count_private=true)
+![Payback159's github stats](https://github-readme-stats.vercel.app/api?username=payback159&show_icons=true&theme=default&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payback159)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
