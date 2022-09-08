@@ -1,6 +1,6 @@
 ### Hi there, my name is Alex 👋
 
-I had an early interest in Linux and open source software in general, but it was Kubernetes and my entry into the cloud native world that sparked my interest in learning the different ways to deploy a platform.  I've been working in Kubernetes cluster administration, development and architecture for ~4 years (12.02.22) and find it as exciting as my 1st kubectl command on the 1st cluster I installed myself. For a good year now, I have also been allowed to contribute to an OpenStack landscape as a cloud architect.
+I had an early interest in Linux and open source software in general, but it was Kubernetes and my entry into the cloud native world that sparked my interest in learning the different ways to deploy a platform.  I've been working in Kubernetes cluster administration, development and architecture for ~4 years (12.02.22) and find it as exciting as my first kubectl command on the first cluster I installed myself. For a good year now, I have also been allowed to contribute to an OpenStack landscape as a cloud architect.
 
 Mainly I use Bash, Python, Terrafom and Ansible in my daily work and since a good half year I'm also trying my hand at Golang application development in private.
 
