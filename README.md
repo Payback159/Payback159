@@ -12,9 +12,7 @@ Since then I'm always on the track to learn new things to be able to provide eve
 
 ---
 
-![Payback159's github stats](https://github-readme-stats.vercel.app/api?username=payback159&show_icons=true&theme=default&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payback159)](https://github.com/payback159/github-readme-stats)
+![Payback159's github stats](https://github-readme-stats.vercel.app/api?username=payback159&show_icons=true&theme=default&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payback159)](https://github.com/payback159/github-readme-stats)
 
 <!--
 **Payback159/Payback159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +33,6 @@ Here are some ideas to get you started:
 Feel free to contact me, I am always happy to exchange ideas with like-minded people.
 
 ---
+![](https://komarev.com/ghpvc/?username=payback159&color=blue)
+
 Made with the help of [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
