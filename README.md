@@ -1,10 +1,6 @@
-### Hi there, my name is Alex 👋
+# Hi, I'm Alex. 👋 
 
-I had an early interest in Linux and open source software in general, but it was Kubernetes and my entry into the cloud native world that sparked my interest in learning the different ways to deploy a platform.  I've been working in Kubernetes cluster administration, development and architecture for ~4 years (12.02.22) and find it as exciting as my first kubectl command on the first cluster I installed myself.
-
-Mainly I use Bash, Golang, Python, Terrafom and Ansible in my daily work.
-
-Since then I'm always on the track to learn new things to be able to provide even better platform services.
+I'm passionate about building and managing robust platforms, and for me, Kubernetes and the cloud native world have been key. While my interest in Linux and open source started earlier, it was Kubernetes that really drove me to explore innovative deployment methods. Over the past years (since February 2022), I've been working with Kubernetes clusters, tackling challenges in administration, development, and architecture. I still get a kick out of it—it's like solving a new puzzle every day, and it takes me back to the excitement of setting up my first cluster and issuing that first kubectl command. I rely on tools like Bash, Go, Python, Terraform, and Ansible to get the job done. I’m committed to continuous learning and growth, always seeking new knowledge to deliver even better platform services.
 
 ---
 
@@ -12,9 +8,7 @@ Since then I'm always on the track to learn new things to be able to provide eve
 
 ---
 
-![Payback159's github stats](https://github-readme-stats.vercel.app/api?username=payback159&show_icons=true&theme=dark&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payback159&theme=dark)](https://github.com/payback159/github-readme-stats)
+![Payback159's github stats](https://github-readme-stats.vercel.app/api?username=payback159&show_icons=true&theme=dark&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payback159&theme=dark)](https://github.com/payback159/github-readme-stats)
 
 <!--
 **Payback159/Payback159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +26,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-Feel free to contact me, I am always happy to exchange ideas with like-minded people.
+I welcome the opportunity to connect and exchange ideas.
 
 ---
 ![](https://komarev.com/ghpvc/?username=payback159&color=blue)
