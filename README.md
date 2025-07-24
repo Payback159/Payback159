@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a dedicated **Platform Engineer** with 3+ years of hands-on experience in Kubernetes and cloud-native technologies. My journey began with a curiosity for Linux and open source, but it was Kubernetes that truly ignited my passion for innovative deployment methodologies and scalable infrastructure.
+I'm a dedicated **Platform Engineer** with 8+ years of hands-on experience in Kubernetes and cloud-native technologies. My journey began with a curiosity for Linux and open source, but it was Kubernetes that truly ignited my passion for innovative deployment methodologies and scalable infrastructure.
 
 **What drives me:**
 
