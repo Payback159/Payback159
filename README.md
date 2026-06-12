@@ -4,7 +4,7 @@
 
 With over 8 years of experience in infrastructure engineering, I specialize in building robust, scalable platform architectures and empowering development teams through modern GitOps and automation practices.
 
-[🌐 Portfolio](https://jelinek.website/portfolio/) │ [🔗 LinkedIn](https://www.linkedin.com/in/alexanderjelinek/)
+[🌐 Portfolio](https://jelinek.website/en/portfolio/) │ [🔗 LinkedIn](https://www.linkedin.com/in/alexanderjelinek/)
 
 ---
 
@@ -47,4 +47,4 @@ With over 8 years of experience in infrastructure engineering, I specialize in b
 Feel free to reach out if you want to talk about Platform Engineering, Kubernetes architecture, or cloud-native tools!
 
 *   **LinkedIn:** [alexanderjelinek](https://www.linkedin.com/in/alexanderjelinek/)
-*   **Website:** [jelinek.website](https://jelinek.website/portfolio/)
+*   **Website:** [jelinek.website](https://jelinek.website/)
